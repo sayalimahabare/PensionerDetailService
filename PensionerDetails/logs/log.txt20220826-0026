@@ -1,0 +1,6 @@
+2022-08-26 00:26:45,321 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2022-08-26 00:26:47,046 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2022-08-26 00:26:47,117 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2022-08-26 00:26:47,117 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2022-08-26 00:26:47,144 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\FSE 1 Final project\FSE dotnet git\git\PensionerDetails\PensionerDetails
+2022-08-26 00:26:47,145 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\FSE 1 Final project\FSE dotnet git\git\PensionerDetails\PensionerDetails
