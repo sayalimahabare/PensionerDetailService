@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: sayalimahabarepensionerdetailservice 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sayalimahabarepensionerdetailservice
+  template:
+    metadata:
+      labels:
+        app: sayalimahabarepensionerdetailservice 
+    spec:
+      containers:
+        - name: sayalimahabarepensionerdetailservice 
+          image: pensioncontainerregistery.azurecr.io/sayalimahabarepensionerdetailservice
+          ports:
+          - containerPort: 80
